@@ -1,5 +1,7 @@
 **EV Sales Analysis Dashboard**
+
 Project Overview:
+
 This project focuses on analyzing electric vehicle (EV) sales data to provide insights on trends in the EV market. The dashboard visualizes key metrics such as total vehicles sold, vehicle types, and the electric range of different models. The data is presented in an intuitive and interactive format using Power BI, enabling users to explore various aspects of EV sales over time.
 
 Key Features:
